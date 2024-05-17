@@ -1,5 +1,3 @@
-# Install PYAUTOGUI 
-pip install pyautogui
-
-### Warning, I don't recommend gambling, its completely based on luck, yeah luck of your bot.
-### Adjust the coordinates based on your screensize, use the mouse position app I provided if needed.
+# My Python Bots Repo
+# Warning : I tried my best to give it a human touch, but if you get caught and your account gets banned I wont be responsible 😂.
+## Till now no cases of getting caught by security bots.
